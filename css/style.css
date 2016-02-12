@@ -1,0 +1,119 @@
+*{outline: none;
+}
+
+header{
+  background-image:url("../images/header.png");
+  height: 650px;
+  padding: 0;
+  margin: 0;
+  width:100%;
+}
+
+.no-padding{
+  padding:0;
+  margin: 0;
+}
+
+h1{
+  color: white;
+  text-align: center;
+  padding-top:0.5em;
+  padding-bottom: 1em;
+}
+
+#homepage{
+  background-color: #4169E1;
+  margin:0;
+  border: none;
+}
+
+div>ul>li>a{
+  text-align: center;
+  color: white;
+}
+
+.image_ville{
+  padding-left: 1.5em;
+}
+
+.marge{
+  margin-top: 1em;
+  border: 10px solid white;
+}
+
+body{
+  background-image: url("../images/fond.png");
+  padding: 0;
+  margin: 0;
+  width:100%;
+}
+
+h2{
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
+.bold{
+  font-weight: bold;
+}
+
+.bouton{
+  margin-bottom: 1em;
+}
+
+.couleur{
+  color: red;
+}
+
+.fond_article{
+  background-image: url("../images/fond-article.png");
+}
+
+h3{
+  font-size: 1em;
+  font-weight: bold;
+}
+
+.img3{
+  width: 600px;
+}
+
+.marge2{
+  margin-top: 1em;
+}
+
+.border_bottom{
+  border-bottom: 1px solid grey;
+  margin-top: 2em;
+  margin-bottom: 1em;
+}
+
+.border_bottom2{
+  border-bottom: 1px solid grey;
+
+
+}
+div>h2>img>p{
+  position: relative;
+
+}
+.bouton2{
+  margin-top: 1em;
+}
+
+footer{
+  text-align: center;
+  background-image: url("../images/footer.png");
+  padding: 0;
+  margin: 0;
+  height: 50px;
+}
+
+.fond_citation{
+   background-image: url("../images/citation.jpg");
+}
+
+.fond_blanc{
+  background-image:url("../images/fond.png");
+
+}
