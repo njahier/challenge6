@@ -67,11 +67,20 @@ h2{
 
 .fond_article{
   background-image: url("../images/fond-article.png");
+  margin-left: 2em;
+  margin-right: 2em;
+  padding:1em;
+  width:25%;
 }
 
 h3{
   font-size: 1em;
   font-weight: bold;
+  margin-top:0;
+}
+
+#img{
+  margin-right: 0.6em;
 }
 
 .img3{
@@ -90,8 +99,11 @@ h3{
 
 .border_bottom2{
   border-bottom: 1px solid grey;
-
-
+  margin-bottom: 1.5em;
+}
+#img2{
+  margin-top: 0.5em;
+  margin-right: 0.5em;
 }
 div>h2>img>p{
   position: relative;
